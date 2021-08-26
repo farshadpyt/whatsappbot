@@ -2,7 +2,7 @@
 <p align="center">
     <a href="https://git.io/J0hKr">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+My+ʟɪͥʏͭᴀᷤᴍᷟᴏͤʟ+BOT+codded+by+Saidali..."
+            src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+My+ʟɪͥʏͭᴀᷤᴍᷟᴏͤʟ+BOT+codded+by+farshad..."
             alt="Typing SVG"
         />
     </a>
@@ -47,7 +47,7 @@ Project created by <a href="https://github.com/saidalisaid2">saidali</a> to make
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@afnanplk/PinkyMwol-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/saidalisaid2/LiyaMol)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/farshadpyt/whatsappbot)
      </div>
 <br>
 <br >
